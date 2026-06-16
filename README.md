@@ -34,8 +34,8 @@ I’m passionate about **Full-Stack Development, AI/ML, and Cybersecurity** and 
 
 ## Contact
 
-[Check out my Portfolio](https://theshambhavipandey.netlify.app/)
-[Drop a message here!](https://www.linkedin.com/in/theshambhavipandey/)
+-  Portfolio → [theshambhavipandey.netlify.app](https://theshambhavipandey.netlify.app/)
+-  LinkedIn → [Let’s connect](https://www.linkedin.com/in/theshambhavipandey/)
 
 ---
 
