@@ -29,12 +29,16 @@ I’m passionate about **Full-Stack Development, AI/ML, and Cybersecurity** and 
 
 ## GitHub Stats
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=The-ShambhaviPandey&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=The-ShambhaviPandey&theme=dark)](https://git.io/streak-stats)
+---
+
+## Contact
+
+[Check out my Portfolio](https://theshambhavipandey.netlify.app/)
+[Drop a message here!](https://www.linkedin.com/in/theshambhavipandey/)
 
 ---
 
- ## Thank you! 💙
+## Thank you For Visiting! 💙
  
- You can connect with me [here](https://www.linkedin.com/in/theshambhavipandey/)
-
-
+ 
