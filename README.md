@@ -1,6 +1,6 @@
 # Shambhavi Pandey
 
-Hi 👋, I'm **Shambhavi Pandey**, a pre-final year B.Tech student in Computer Science and Engineering.  
+Hi 👋, I'm **Shambhavi Pandey**, a final year B.Tech student in Computer Science and Engineering.  
 
 I’m passionate about **Full-Stack Development, AI/ML, and Cybersecurity** and love building projects that **solve real-world problems**. Always open to **collaborating on interesting ideas**.  
 
